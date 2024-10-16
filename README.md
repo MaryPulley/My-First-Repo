@@ -1,4 +1,1 @@
-# My-First-Repo
-My First Repo for Week 1 
-This is for Week 1 of AI BootCamp
-Hopefully all of this works and I don't break the code immediately. 
+This is the README for the My-First_Repo for the first week. I hope this works but I'm honestly not sure I'm doing this right.
